@@ -24,7 +24,7 @@ Using synthetic patient data that mimics real-world healthcare records, our opti
 
 - `code/`: Contains the Jupyter Notebook with implementation and results
 - `data/`: Contains the synthetic patient data used for the project
-- `data_sheet.md`: Detailed information about the dataset
+- `Datasheet_ Optimizing Patient Matching Algorithms with Bayesian Optimization.md`: Detailed information about the dataset
 - `model_card.md`: Documentation of the model, its intended use, and limitations
 - `README.md`: This file, with project overview and instructions
 
